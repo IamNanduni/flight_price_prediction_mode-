@@ -46,7 +46,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/IamNanduni/flight_price_prediction_model.git
+    git clone https://github.com/IamNanduni/flight_price_prediction_mode-.git
     cd flight-price-prediction
     ```
 
